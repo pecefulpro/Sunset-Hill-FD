@@ -1,0 +1,14 @@
+{
+	"Info": {
+		"Type":"Stage",
+		"Version": "1.3.1.2",
+		"Creators":"Doppy",	
+	},
+	"Stage": {
+		"StageName:":"Final Destination",
+		"GUID":"4305ad41-d77d-4762-9c4d-5483c5c40428",	//https://guidgenerator.com/online-guid-generator.aspx
+		"Image":true,									//If your mod will have a image preview
+		"displayName":"Sunset Hills", 					//Name that will be shown in the game preview
+		"fileName":"sunset_hill_FD.ssf"					//ex. Blue_BattleField.ssf
+	}
+}
