@@ -1,4 +1,4 @@
-## Sun
+## Sunset Hills
 
 A sonic mod over Final Destination
 
